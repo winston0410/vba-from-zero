@@ -42,6 +42,8 @@ Accessible **across modules**.
 Public data As String
 ```
 
+You should always use the **smallest possible scope** to declare variable for better maintainability.
+
 ### Declaring multiple variable with types
 
 ```vba
